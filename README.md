@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-https://tenor.com/view/the-hacker-matrix-code-hacking-gif-16778252
-
+![](https://tenor.com/view/the-hacker-matrix-code-hacking-gif-16778252)
 
 
 - 🔭 I’m currently working on Flutter
