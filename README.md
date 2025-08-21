@@ -4,7 +4,7 @@ WELCOME TO MY GITHUB
 <img src="https://github.com/shagun-tech/shagun-tech/blob/main/the-hacker-matrix.gif" alt="" width="500" height="100">
  </div> 
  <div>
-<img src="https://github.com/shagun-tech/shagun-tech/blob/main/Code%20Hacking%20GIF%20by%20Pizza%20Ninjas.gif" alt="" width="500" height="500">
+<img src="https://github.com/shagun-tech/shagun-tech/blob/main/Code%20Hacking%20GIF%20by%20Pizza%20Ninjas.gif" alt="" width="500" height="300">
 </div>
 
 
