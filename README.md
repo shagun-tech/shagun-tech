@@ -9,7 +9,7 @@
 
 - 🌱 I’m a Software Engineer with 2+ years of experience in **MERN stack** and **Java/Springboot** 
 
-- 💬 Ask me about **Java ,DSA, Competitive Programming , JavaScript ,ML ,Python, Tailwind, Node.js , React.js , TypeScritp**
+- 💬 Ask me about **Java ,DSA, Competitive Programming , JavaScript ,ML ,Python, Tailwind, Node.js , React.js , TypeScript**
 
 - 📫 How to reach me **shaguns2025@gmail.com**
 
